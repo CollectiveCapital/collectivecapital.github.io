@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Contact
+title: ...
 excerpt: "Send us an email"
 search_omit: true
 ---
-
-james@bigfish.insure
+<div align="center">
+  james@bigfish.insure
+</div>
