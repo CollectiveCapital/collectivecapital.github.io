@@ -1,26 +1,11 @@
 ---
 layout: page
-title: About the Jekyll Theme
-excerpt: "So Simple is a responsive Jekyll theme for your words and images."
+title: Who We Are
+excerpt: "We study the dynamics of complex and adaptive social-ecological systems to improve the well-being of people around the  world"
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
-  feature: so-simple-sample-image-4.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: DSC_3089.jpg
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
+Our research uses tools from the social, ecological and economic sciences to understand the functioning of Complex Adaptive Systems. These systems are all around us, including the financial systems, the human immune system and ecosystems. We are interested in learning from all these systems, to improve our understanding and governance of **marine social-ecological systems**. Our projects span specific systems, from Southern California and the Baltic Sea, to whole regions like the U.S. west coast and the Arctic, to global studies. We are committed to translating basic science into solutions for the real-world, and we encourage partnerships with government and NGO organizations, as well as entrepreneurship based on our research. 
 
-## So Simple Theme is all about:
-
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations.
-* Optional large feature images for posts and pages.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Simple site search](https://github.com/christian-fei/Simple-Jekyll-Search)
-* Support for Disqus Comments
-
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
-
-[^1]: Example: *domain.com/category-name/post-title*
